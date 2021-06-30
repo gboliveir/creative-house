@@ -1,0 +1,24 @@
+.idea {
+  display: flex;
+  padding: 2rem;
+  background-color: white;
+
+  img{
+    width: 100px;
+    height: 100px;
+  }
+
+  .content {
+    h3 {
+      font-size: 2rem;
+    }
+
+    p {
+      font-size: 1.5rem;
+    }
+
+    div {
+      font-size: 1rem;
+    }
+  }
+}
